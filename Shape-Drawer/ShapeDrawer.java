@@ -1,7 +1,7 @@
 // main class for the ShapeDrawer Program
 import javax.swing.UIManager;
 
-//main Class!
+
 public class ShapeDrawer {
 
 	public static void main(String args[])
